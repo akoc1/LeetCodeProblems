@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\bin\Debug\two_sum.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\bin\Debug\two_sum.pdb
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\obj\Debug\two sum.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\obj\Debug\two sum.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\obj\Debug\two_sum.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\two sum\obj\Debug\two_sum.pdb
