@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\bin\Debug\_9._Palindrome_Number.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\bin\Debug\_9._Palindrome_Number.pdb
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\obj\Debug\9. Palindrome Number.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\obj\Debug\9. Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\obj\Debug\_9._Palindrome_Number.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\9. Palindrome Number\obj\Debug\_9._Palindrome_Number.pdb
