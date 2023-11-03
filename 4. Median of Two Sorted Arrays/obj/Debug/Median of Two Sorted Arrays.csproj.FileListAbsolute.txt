@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\bin\Debug\Median_of_Two_Sorted_Arrays.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\bin\Debug\Median_of_Two_Sorted_Arrays.pdb
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\obj\Debug\Median of Two Sorted Arrays.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\obj\Debug\Median of Two Sorted Arrays.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\obj\Debug\Median_of_Two_Sorted_Arrays.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\Median of Two Sorted Arrays\obj\Debug\Median_of_Two_Sorted_Arrays.pdb
