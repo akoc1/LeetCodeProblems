@@ -1,0 +1,6 @@
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\bin\Debug\_7._Reverse_Integer.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\bin\Debug\_7._Reverse_Integer.pdb
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\obj\Debug\7. Reverse Integer.csproj.AssemblyReference.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\obj\Debug\7. Reverse Integer.csproj.CoreCompileInputs.cache
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\obj\Debug\_7._Reverse_Integer.exe
+C:\Users\gerib\Documents\Rider\C#\Leetcode Problems\7. Reverse Integer\obj\Debug\_7._Reverse_Integer.pdb
